@@ -124,5 +124,7 @@ vete1.asignarPacienteADueño(mascota4,cliente2.getID());
 
 
 //MUESTRO LOS ID GENERADOS DE FORMA ALEATORIA Y UNICA
-//console.log("El id de la veterinaria 1 es: ",vete1.getId()); 
-//console.log ("El id de la veterinaria 2 es: ", vete2.getId()); 
+console.log("El id de la veterinaria 1 es: ",vete1.getId()); 
+console.log ("El id de la veterinaria 2 es: ", vete2.getId()); 
+
+//Esto es una prueba de main
